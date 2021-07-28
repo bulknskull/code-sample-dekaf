@@ -1,2 +1,4 @@
 # code-sample-dekaf
-A sample of my work on deKaf, an open-source, web-based visualization tool for Kafka metrics
+A sample of my work on deKaf, an open-source, web-based visualization tool for Kafka metrics. I was responsible for overseeing front-end development on this product, including React architecture, page flow, styling, design, and UX/UI.
+
+NOTE: This repo contains the entire file tree for the front end, built in React with Hooks and React-Router, as well as static assets (HTML, CSS/Sass, favicon). I have excluded the files dealing with our D3 visualizations, as this was not an area of focus for me on the product. I have also excluded the back end, which I did contribute to, but which was not an area I oversaw. For context, the full repo for deKaf can be found on Github at https://github.com/oslabs-beta/deKaf. You can also try the beta version of deKaf at http://www.getdekaf.com.
